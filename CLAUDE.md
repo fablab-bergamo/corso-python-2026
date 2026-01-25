@@ -88,3 +88,7 @@ This repository serves students with no prior programming experience. The teachi
 - **Interactive Learning**: Designed for live coding sessions and student experimentation
 
 The course concludes with AI/LLM integration, preparing students for modern Python applications while maintaining focus on fundamental programming principles.
+
+## Memorizzazioni di Sviluppo (Development Memories)
+
+- Le stringhe multi-riga nelle celle devono avere escape sequence appropriate
