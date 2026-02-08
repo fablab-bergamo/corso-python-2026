@@ -27,21 +27,25 @@ Questo repository contiene tutti i materiali didattici del corso:
 - [**Python_Lezione1.ipynb**](./Python_Lezione1.ipynb) - Filosofia di Python, variabili, espressioni e controlli di flusso
 - [**Python_Lezione2.ipynb**](./Python_Lezione2.ipynb) - Funzioni e richieste web
 - [**Python_Lezione3.ipynb**](./Python_Lezione3.ipynb) - Analisi dati con librerie
+- [**Python_Lezione4.ipynb**](./Python_Lezione4.ipynb) - Large Language Models e classificazione automatica con AI
 
 ### Slides
 - [**Slides-Lezione1.pdf**](./Slides-Lezione1.pdf) - Presentazione prima lezione
 - [**Slides-Lezione2.pdf**](./Slides-Lezione2.pdf) - Presentazione seconda lezione
 - [**Slides-Lezione3.pdf**](./Slides-Lezione3.pdf) - Presentazione terza lezione
+- [**Slides-Lezione4.pdf**](./Slides-Lezione4.pdf) - Presentazione quarta lezione
 
 ## 🔗 Link ai Colab Online
 
 Per utilizzare i notebook direttamente nel browser senza installazioni:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[username]/corso-python-2026/blob/main/Python_Lezione1.ipynb) **Lezione 1**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fablab-bergamo/corso-python-2026/blob/main/Python_Lezione1.ipynb) **Lezione 1**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[username]/corso-python-2026/blob/main/Python_Lezione2.ipynb) **Lezione 2**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fablab-bergamo/corso-python-2026/blob/main/Python_Lezione2.ipynb) **Lezione 2**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[username]/corso-python-2026/blob/main/Python_Lezione3.ipynb) **Lezione 3**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fablab-bergamo/corso-python-2026/blob/main/Python_Lezione3.ipynb) **Lezione 3**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fablab-bergamo/corso-python-2026/blob/main/Python_Lezione4.ipynb) **Lezione 4**
 
 ## 🎯 Argomenti Trattati
 
@@ -67,9 +71,15 @@ Per utilizzare i notebook direttamente nel browser senza installazioni:
 - Manipolazione e analisi di dataset
 - Visualizzazione dati
 
-### Lezione 4: Large Language Models
-- Utilizzo di API per modelli di linguaggio
-- Applicazioni pratiche dell'AI
+### Lezione 4: Large Language Models e AI
+- Large Language Models (LLM) e API OpenAI
+- Classificazione automatica di prodotti con AI
+- Analisi di dataset e-commerce reali
+- Dataset acquisti Amazon con dati casuali ma significativi (1,934 ordini)
+- Integrazione Pandas + Matplotlib + AI
+- Dashboard completo con visualizzazioni avanzate
+- Batch processing per ottimizzare le chiamate API
+- Export dei dati classificati in Excel e CSV
 
 ## 🛠️ Strumenti Consigliati
 
@@ -78,10 +88,14 @@ Per utilizzare i notebook direttamente nel browser senza installazioni:
   - `requests` - Per le richieste HTTP/API
   - `Pillow` - Per la manipolazione di immagini
   - `pandas` - Per l'analisi dati
+  - `matplotlib` - Per le visualizzazioni
+  - `openai` - Per l'integrazione con ChatGPT
+  - `numpy` - Per operazioni numeriche
 
 ## 📖 Risorse Aggiuntive
 
 - [Il tutorial ufficiale di Python](https://docs.python.org/it/3/tutorial/) - Approfondimento consigliato
+- [Dataset e-commerce di esempio](https://www.fablabbergamo.it/wp-content/uploads/2026/01/Retail.OrderHistory.2.csv) - File CSV con dati di acquisti Amazon
 
 ## 🔗 Link agli Articoli
 
